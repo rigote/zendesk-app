@@ -1,0 +1,21 @@
+.loader {
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 40px;
+}
+
+.app_view{
+  height: 400px;
+}
+
+.app_view.app-0.apps_ticket_sidebar.box{height: 500px;}
+
+.app_view.app-0.apps_ticket_sidebar.box > iframe {
+  height: 480px;
+}
+
+.app_view_outer {
+  height: 540px;
+}

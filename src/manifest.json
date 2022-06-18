@@ -1,0 +1,54 @@
+{
+  "name": "jetcommerce-app",
+  "author": {
+    "name": "InfocusCX",
+    "email": "desenvolvimento@infocuscx.com.br",
+    "url": "https://www.infocuscx.com.br/"
+  },
+  "defaultLocale": "en",
+  "termsConditionsURL": "https://www.infocuscx.com.br/termos_condicoes_infocuscx/",
+  "private": false,
+  "location": {
+    "support": {
+      "nav_bar": {
+        "url": "https://jet-commerce.vercel.app",
+        "flexible": true
+      },
+      "ticket_sidebar": {
+        "url": "https://jet-commerce.vercel.app",
+        "flexible": true,
+        "size": {
+          "height": "550px"
+        }
+      }
+    }
+  },
+  "parameters": [
+    {
+      "name": "userNameJet",
+      "type": "text",
+      "required": true,
+      "secure": false
+    },
+    {
+      "name": "senhaJet",
+      "type": "text",
+      "required": true,
+      "secure": true
+    },
+    {
+      "name": "storeId",
+      "type": "text",
+      "required": true,
+      "secure": false
+    },
+    {
+      "name": "integrationKey",
+      "type": "text",
+      "required": true,
+      "secure": true
+    }
+  ],
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}

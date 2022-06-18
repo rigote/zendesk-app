@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "Jet e-Commerce by inFocusCX",
+    "short_description": "Consulte todos dados de pedidos e clientes da plataforma Jet e-commerce",
+    "long_description": "O **aplicativo Jet e-commerce** para o **Zendesk Support** reúne todos os dados de clientes e pedidos dentro da interface de ticket da Zendesk possibilitando que seus agentes de atendimento tenham acesso às informações mais importantes durante o atendimento, sem precisar buscá-las em outras telas - tornando o atendimento e o tempo de resposta ainda mais rápidos.\n\nO **app** se conectará à sua loja na plataforma da Jet e fará consultas por pedidos de clientes, trazendo todos os detalhes para o momento do atendimento;\n\nUma vez integrados na plataforma da Zendesk, não importa o canal de contato utilizado pelo seu cliente, seja **WhatsApp, Instagram Direct, E-mail, Telefone, entre outros**, sua equipe estará pronta e apta a proporcionar uma experiência única para seu cliente;\n\nApoiando-se em seu simples design, que o torna muito intuitivo, o app garante uma navegação simples e fácil de ser executada, otimizando assim, o tempo e a eficácia de seus agentes de atendimento.\n\n* Resolva questões de seus clientes rapidamente com acesso aos dados relevantes de pedidos da Jet, como, por exemplo: Status do Pedido, Status da Entrega, Dados da Entrega, Dados de Pagamento, Itens Comprados e etc;* Navegação simples e intuitiva;* Incorpore canais de mensagens (Chat, WhatsApp) em sua loja na Jet, integre-os a plataforma da Zendesk e converta visitantes em verdadeiros clientes.",
+    "installation_instructions": "1. Após instalar o aplicativo em seu subdomínio Zendesk2. Preencher os campos do aplicativo (referência abaixo) com as informações que você recebe assim que sua loja é criada na Jet e-commerce\n\n* Nome de usuário* Senha* storeID* IntegrationKey3. Acessar opção de menu Configurações -> Gerenciar credenciais de integração, entrar na opção **Ações** e habilitar as filas de **Pedido**, **Status de Pedido** e **Clientes**",
+    "title": "Jet e-commerce by inFocusCX"
+  },
+  "default": {
+    "organizations": "organizations"
+  }
+}
