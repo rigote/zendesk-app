@@ -23,6 +23,7 @@
       }
     }
   },
+  "domainWhitelist": ["jet-commerce.vercel.app"],
   "parameters": [
     {
       "name": "userNameJet",
